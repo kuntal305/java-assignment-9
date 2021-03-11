@@ -7,7 +7,6 @@ import java.util.List;
 import com.movie.enums.Category;
 import com.movie.enums.Language;
 
-@SuppressWarnings("serial")
 public class Movie implements Serializable {
 	private int movieId;
 	private String movieName;
